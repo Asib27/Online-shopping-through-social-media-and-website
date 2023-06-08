@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "7e5642673452b7db",
+    "type": "split",
+    "children": [
+      {
+        "id": "45be7ee0efb88191",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa8a09dc24a2bbbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data points/44.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "290d7ff17a286463",
+    "type": "split",
+    "children": [
+      {
+        "id": "25614921f64f5e66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10ed1babab45125c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08cf056e4183e647",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "825eba1afbb99cf8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b6bc047eb86c830",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9c40a614a26c5de",
+    "type": "split",
+    "children": [
+      {
+        "id": "3534e0eb423eb804",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26bb8143356e10b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "data points/44.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3695816435a9ea9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "data points/44.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8712d3551aa5b272",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88bc2cd54dea3add",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "data points/44.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fa8a09dc24a2bbbc",
+  "lastOpenFiles": [
+    "data points/47.md",
+    "data points/48.md",
+    "data points/46.md",
+    "data points/45.md",
+    "data points/44.md",
+    "data points/43.md",
+    "data points/42.md",
+    "data points/41.md",
+    "data points/40.md",
+    "data points/39.md",
+    "data points/38.md",
+    "data points/37.md",
+    "data points/36.md",
+    "data points/35.md",
+    "data points/34.md",
+    "data points/33.md",
+    "data points/32.md",
+    "data points/31.md",
+    "data points/30.md",
+    "data points/29.md",
+    "data points/28.md",
+    "data points/27.md",
+    "data points/5.md",
+    "codes/18.md",
+    "data points/13.md",
+    "data points/16.md",
+    "data points/Golam_mahdi_ahmed.pdf",
+    "data points/Firdous_answer.pdf",
+    "data points/Fatin_ahmed.pdf",
+    "data points/Ahad_kaiser_tamim_answer.pdf",
+    "data points/akhil kumar.pdf",
+    "data points/Abdul Munaf.pdf",
+    "Online-shopping-through-social-media-and-website/data points/Golam_mahdi_ahmed.pdf",
+    "Online-shopping-through-social-media-and-website/data points/Golam_mahdi_ahmed.docx",
+    "Online-shopping-through-social-media-and-website/data points/Firdous_answer.pdf",
+    "Online-shopping-through-social-media-and-website/data points/Firdous_answer.docx"
+  ]
+}
