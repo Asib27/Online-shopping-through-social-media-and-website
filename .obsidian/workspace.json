@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa8a09dc24a2bbbc",
+            "id": "4072cca56b41b885",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data points/44.md",
+                "file": "codes/Social Media Activity makes a shop Trustworthy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed4989da86966f5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data points/46.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1f47e8094beb78a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data points/8.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 629.5
   },
   "right": {
     "id": "c9c40a614a26c5de",
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data points/44.md",
+                "file": "data points/46.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data points/44.md",
+                "file": "data points/46.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data points/44.md"
+                "file": "data points/46.md"
               }
             }
           }
@@ -154,34 +179,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa8a09dc24a2bbbc",
+  "active": "ed4989da86966f5e",
   "lastOpenFiles": [
-    "data points/47.md",
-    "data points/48.md",
+    "codes/Human interaction in Social Media.md",
+    "codes/Social Media Activity makes a shop Trustworthy.md",
     "data points/46.md",
-    "data points/45.md",
-    "data points/44.md",
-    "data points/43.md",
-    "data points/42.md",
-    "data points/41.md",
-    "data points/40.md",
-    "data points/39.md",
-    "data points/38.md",
-    "data points/37.md",
-    "data points/36.md",
-    "data points/35.md",
-    "data points/34.md",
-    "data points/33.md",
-    "data points/32.md",
-    "data points/31.md",
-    "data points/30.md",
-    "data points/29.md",
-    "data points/28.md",
-    "data points/27.md",
-    "data points/5.md",
-    "codes/18.md",
-    "data points/13.md",
-    "data points/16.md",
+    "codes/Payment Better in website.md",
+    "data points/8.md",
+    "data points/47.md",
+    "codes/More adds in social media.md",
+    "codes/Bias in social media.md",
+    "codes/Familiar UI in social media is more intuitive.md",
+    "data points/7.md",
+    "data points/0.md",
+    "codes/Customizability of website.md",
+    "codes/Websites are more formal.md",
+    "codes/Social Media easier to use than website.md",
+    "codes/Social Media easier for mass people.md",
+    "codes/Social media makes life easy for people.md",
+    "codes/Easy Starting in social media.md",
+    "codes/Easier to review products in social media.md",
+    "codes/Efficiently Reviewing and researching about a product in Social Media.md",
+    "codes/Better Offers in social media.md",
+    "codes/Better ad in social media due to informality.md",
+    "codes/Activeness in social media influences.md",
+    "codes/Bergaining in social media.md",
+    "codes/Fixed price in online marketing.md",
+    "codes/Social media updated frequently.md",
+    "codes/Website redirection from social media.md",
     "data points/Golam_mahdi_ahmed.pdf",
     "data points/Firdous_answer.pdf",
     "data points/Fatin_ahmed.pdf",
